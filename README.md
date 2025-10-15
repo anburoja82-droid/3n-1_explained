@@ -1,6 +1,6 @@
 # 3n-1_explained
 3n plus one explained
-The Collatz (3n+1) Process Using the One's Digit — Explained in Words
+The Collatz (3n+1) Process Using the One's Digit — Explained in Wordle
 Start with any number you want.
 (You can start with 0, 14, 15, or any other non-negative integer.)
 
